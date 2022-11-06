@@ -16,7 +16,5 @@ class MyModel:
         '''
         return date * self.slope + self.intercept
 
-# Create our model ready to be trained
-model = MyModel()
 
 print("Model made!")
