@@ -17,4 +17,3 @@ class MyModel:
         return date * self.slope + self.intercept
 
 
-print("Model made!")
